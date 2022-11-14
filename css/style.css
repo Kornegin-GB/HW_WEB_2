@@ -1,0 +1,19 @@
+@import url("../fonts/roboto.css");
+
+body{
+   background-color: #9cd1f0;
+   font-family: 'Roboto', sans-serif;
+}
+
+img{
+   width: 300px;
+}
+
+a{
+   color: #be7f2c;
+}
+
+h1{
+   color: darkgreen;
+   font-style: italic;
+}
